@@ -14,7 +14,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ZiyadBouazara&theme=transparent&hide_border=false&include_all_commits=true)<br/>
-![](https://github-readme-stats-ziyadbouazaras-projects.vercel.app/api?username=ZiyadBouazara&theme=transparent&hide_border=false&include_all_commits=true)<br/>
-![](https://github-readme-stats-ziyadbouazaras-projects.vercel.app/api/top-langs/?username=ZiyadBouazara&theme=transparent&hide_border=false&layout=compact&include_all_commits=true)
+<!--- ![](https://github-readme-stats-ziyadbouazaras-projects.vercel.app/api?username=ZiyadBouazara&theme=transparent&hide_border=false&include_all_commits=true)<br/>
+![](https://github-readme-stats-ziyadbouazaras-projects.vercel.app/api/top-langs/?username=ZiyadBouazara&theme=transparent&hide_border=false&layout=compact&include_all_commits=true) -->
 
 
