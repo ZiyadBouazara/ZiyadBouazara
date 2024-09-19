@@ -1,3 +1,9 @@
+# 👋 Hi, I'm Ziyad Bouazara
+
+### 💼 Professional Experience
+- **Can-Explore** – Full Stack Software Engineer Intern in Video Development team, contributing to both the main web application and new mobile application.
+- **Cybersecurity Ministry of Quebec** – Software Engineer Intern in Automation team, automating workflows and improving deployment pipelines.
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ziyad-bouazara/) 
 
