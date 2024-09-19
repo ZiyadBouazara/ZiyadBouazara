@@ -12,9 +12,4 @@
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=ZiyadBouazara&theme=transparent&hide_border=false&include_all_commits=true)<br/>
-<!--- ![](https://github-readme-stats-ziyadbouazaras-projects.vercel.app/api?username=ZiyadBouazara&theme=transparent&hide_border=false&include_all_commits=true)<br/>
-![](https://github-readme-stats-ziyadbouazaras-projects.vercel.app/api/top-langs/?username=ZiyadBouazara&theme=transparent&hide_border=false&layout=compact&include_all_commits=true) -->
-
 
