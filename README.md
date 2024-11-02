@@ -1,8 +1,8 @@
 # 👋 Hi
 
 ### ⚡ Professional Experience
-- **Can-Explore** – Full Stack Software Engineer Intern in Development team, contributing to both the main project web application and new mobile application.
-- **Cybersecurity Ministry of Quebec** – Software Engineer Intern in Automation team, automating workflows and improving deployment pipelines.
+- **Can-Explore** – Full-stack development in a fast-paced B2B SaaS startup working with a microservice monorepo codebase.
+- **Cybersecurity Ministry of Quebec** – Software development on an IaaS platform within the Government Cloud.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ziyad-bouazara/) 
